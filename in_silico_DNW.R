@@ -31,7 +31,7 @@ ALL.FRAGS.LENGTH<-vector(length=(length(Data)/2))
 MULTI.DIGEST<-function(SEQUENCE_IN, ENZYMES_IN)
 {
   ### code to digest a RNA sequence with multiple restriction enzymes
-  ### Written by Nathan R. Vaughan, May 2014
+  ### Written by Dominique N. Wagner & Nathan R. Vaughan, May 2014
   ### Use code at your own risk. No guarantees.
   #5' to 3' cut site
   
