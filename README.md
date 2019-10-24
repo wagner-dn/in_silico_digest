@@ -1,2 +1,2 @@
 # in_silico_digest
-Simulated in silico digest of DNA sequence
+Scripts to simulate digest of DNA sequence
